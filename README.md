@@ -1,2 +1,2 @@
 ﻿# Hustle-Forge
-Fully vibe coded through claue code 🫰
+Fully vibe coded through claude code 🫰
